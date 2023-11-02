@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Halaman Utama Kopi</title>
+</head>
+
+<body>
+    <header>
+        <h1>Selamat Datang di Situs Kopi</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Beranda</a></li>
+                <li><a href="#">Menu</a></li>
+                <li><a href="#">Tentang Kami</a></li>
+                <li><a href="#">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Nikmati Sensasi Kopi Terbaik</h2>
+        <p>Temukan cita rasa kopi terbaik hanya di situs kami. Dari biji kopi pilihan hingga teknik penyajian terbaik.</p>
+        <a href="#" class="btn">Lihat Menu</a>
+    </section>
+
+    <section class="about">
+        <h2>Tentang Kami</h2>
+        <p>Kami adalah para pecinta kopi yang menyajikan berbagai varian kopi dari seluruh dunia. Pengalaman kopi yang tak terlupakan.</p>
+    </section>
+
+    <section class="contact">
+        <h2>Hubungi Kami</h2>
+        <p>Jika Anda memiliki pertanyaan atau ingin mencoba kopi kami, jangan ragu untuk menghubungi kami.</p>
+        <a href="mailto:info@situskopi.com" class="btn">Email Kami</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Situs Kopi. Hak Cipta Dilindungi.</p>
+    </footer>
+</body>
+
+</html>
